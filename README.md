@@ -1,4 +1,4 @@
-# Copilot Extensions Feedback Hub
+# Feedback Hub for Copilot Extensions
 
 Welcome to the **Copilot Extensions Feedback Hub**. This public repository is meant to facilitate feedback exchange between users and publishers of GitHub Copilot Extensions. It serves as the primary channel for feedback during the Copilot Extensions public beta.
 
