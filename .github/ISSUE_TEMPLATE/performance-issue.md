@@ -1,7 +1,7 @@
 ---
 name: Performance issue
-about: Describe this issue teReport performance-related issues such as slow response
-  times or high resource usagemplate's purpose here.
+about: Report performance-related issues such as slow response times or high resource
+  usage
 title: "[Performance] "
 labels: performance
 assignees: ''
