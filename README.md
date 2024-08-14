@@ -32,14 +32,13 @@ As a publisher of a Copilot Extension, this repository allows you to monitor and
 
 2. **Reviewing Feedback via Project Boards**:
    - Access the feedback board through the "Projects" tab in this repository.
-   - You can filter the board by your extension’s label to see all associated feedback in one place.
-   - You can use GitHub Projects to manage and track the status of each feedback issue.
-   - Make sure to regularly review and update the board to make sure feedback is resolved in a timely manner.
+   - Filter the board by your extension’s label to see all associated feedback in one place.
+   - You can use this Project board to manage and track the status of each feedback issue. Make sure to regularly review and update the board to make sure feedback is resolved in a timely manner.
 
 3. **Responding to Feedback**:
    - Engage with users by commenting on issues.
    - Keep the discussion constructive and focused on resolving or addressing the feedback.
-   - Once feedback has been addressed, you can close the issue.
+   - Once feedback has been addressed you can close the issue.
 
 ---
 
