@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+<!-- Reminder: Add a label with the extension's slug name (e.g., "extension-name") to this issue. -->
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 

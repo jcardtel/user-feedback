@@ -8,6 +8,8 @@ assignees: ''
 
 ---
 
+<!-- Reminder: Add a label with the extension's slug name (e.g., "extension-name") to this issue. -->
+
 **Describe the performance issue**
 A clear and concise description of the performance issue you are experiencing.
 
