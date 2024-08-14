@@ -1,9 +1,9 @@
 ---
 name: Performance issue
-about: Report performance-related issues such as slow response times or high resource
-  usage
+about: Describe this issue teReport performance-related issues such as slow response
+  times or high resource usagemplate's purpose here.
 title: "[Performance] "
-labels: ''
+labels: performance
 assignees: ''
 
 ---
@@ -25,8 +25,8 @@ A clear and concise description of what you expected the performance to be like.
 If applicable, add screenshots, logs, or other relevant files that can help diagnose the performance issue.
 
 **Environment (please complete the following information):**
-- Client: [e.g. Copilot chat in GitHub.com, VS Code, Visual Studio, JetBrains]
 - OS: [e.g., Windows 10, macOS Big Sur]
+- Version of the extension: [e.g., 1.0.0]
 - Other relevant environment details:
 
 **Additional context**
