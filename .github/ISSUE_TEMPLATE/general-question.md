@@ -5,10 +5,12 @@ about: Ask a question that doesn’t fit into other categories, helping to keep 
 title: "[Question] "
 labels: question
 assignees: ''
-
 ---
 
-<!-- Reminder: Please add a label with the extension's slug name (e.g., "extension-name") to this issue. -->
+<!-- 
+For one extension publisher: Add the label corresponding to the extension's slug name.
+For GitHub product team: Add the "github team" label.
+-->
 
 **Question**
 Please describe your question in detail.
