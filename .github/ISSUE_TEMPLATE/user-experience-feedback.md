@@ -4,10 +4,12 @@ about: Share feedback on the usability and interface design of the extension
 title: "[UX] "
 labels: UX
 assignees: ''
-
 ---
 
-<!-- Reminder: Add a label with the extension's slug name (e.g., "extension-name") to this issue. -->
+<!-- 
+For one extension publisher: Add the label corresponding to the extension's slug name.
+For GitHub product team: Add the "github team" label.
+-->
 
 **Describe your experience**
 A brief description of your experience using the extension, including what you liked and what could be improved.
