@@ -14,11 +14,11 @@ If you’re using a Copilot Extension and would like to provide feedback to the 
 2. **Create a GitHub Issue**: 
    - Navigate to the "Issues" tab in this repository.
    - Click on "New Issue" and describe your feedback in detail.
-   - Apply the appropriate label: either the extension’s slug name for publisher feedback or `github team` for GitHub product team feedback.
+   - Apply the appropriate label: either the extension’s slug name for publisher feedback or `github team` for feedback around extensibility (tooling, bugs, questions, feature requests) in general.
 
-3. **Engage with Publishers or the GitHub Team**: After submitting your issue, either the extension’s publisher or a GitHub team member may respond to gather more details or provide updates. Keep an eye on the issue thread for any follow-up.
+3. **Engage with Publishers or the GitHub Team**: After submitting your issue, either the Extension publisher or a GitHub team member may respond to gather more details or provide updates. Keep an eye on the issue thread for any follow-up.
 
-4. **Stay Organized**: Make sure your feedback is relevant to the specific Copilot Extension. General questions should be labeled as `General`.
+4. **Stay Organized**: Make sure your feedback is addressed to the specific Copilot Extension or the GitHub product team by appliying the corresponding label. For status updates, you can turn on Issue notifications in the right-hand sidebar.
 
 Your feedback is vital in helping us improve Copilot Extensions during this beta phase.
 
