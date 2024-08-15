@@ -4,10 +4,12 @@ about: Suggest an idea or propose a new feature for this extensions
 title: "[Feature request] "
 labels: enhancement
 assignees: ''
-
 ---
 
-<!-- Reminder: Add a label with the extension's slug name (e.g., "extension-name") to this issue. -->
+<!-- 
+For one extension publisher: Add the label corresponding to the extension's slug name.
+For GitHub product team: Add the "github team" label.
+-->
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
