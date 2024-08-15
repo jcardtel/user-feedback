@@ -5,10 +5,12 @@ about: Report performance-related issues such as slow response times or high res
 title: "[Performance] "
 labels: performance
 assignees: ''
-
 ---
 
-<!-- Reminder: Add a label with the extension's slug name (e.g., "extension-name") to this issue. -->
+<!-- 
+For one extension publisher: Add the label corresponding to the extension's slug name.
+For GitHub product team: Add the "github team" label.
+-->
 
 **Describe the performance issue**
 A clear and concise description of the performance issue you are experiencing.
