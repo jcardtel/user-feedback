@@ -4,10 +4,12 @@ about: Request additional documentation or clarification on existing documentati
 title: "[Docs] "
 labels: documentation
 assignees: ''
-
 ---
 
-<!-- Reminder: Please add a label with the extension's slug name (e.g., "extension-name") to this issue. -->
+<!-- 
+For one extension publisher: Add the label corresponding to the extension's slug name.
+For GitHub product team: Add the "github team" label.
+-->
 
 **What documentation is needed?**
 Please describe the specific documentation you are requesting or the area that needs clarification.
