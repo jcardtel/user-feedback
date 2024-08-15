@@ -4,10 +4,12 @@ about: Report issues related to integrating the extension with other tools or pl
 title: "[Integration] "
 labels: integration
 assignees: ''
-
 ---
 
-<!-- Reminder: Please add a label with the extension's slug name (e.g., "extension-name") to this issue. -->
+<!-- 
+For one extension publisher: Add the label corresponding to the extension's slug name.
+For GitHub product team: Add the "github team" label.
+-->
 
 **Describe the integration issue**
 A clear and concise description of the issue you are experiencing while integrating the extension with another tool or platform.
