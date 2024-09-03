@@ -5,7 +5,7 @@ Welcome to the Copilot Extensions Feedback Hub. This public repository is design
 ### Important: Feedback for the GitHub Product Team
 If your feedback pertains to GitHub Copilot Extensions in general (e.g. bugs, feature requests) or the GitHub Marketplace (publishing, verifying, listing), please:
 1. Post in our [Community Discussion thread](#) for questions and open forum
-2. Fill out the [Extension Developer Survey](https://github.com/github/copilot-extensibility/issues/469) for detailed feedback and feature requests
+2. Fill out the [Extension Developer Survey](https://survey3.medallia.com/?Mxu02i-extensibility) for detailed feedback and feature requests
 
 This repository is _only_ for feedback intended for publishers of individual Copilot Extensions.
 
