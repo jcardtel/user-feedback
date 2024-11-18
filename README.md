@@ -9,7 +9,7 @@ If you’re looking for GitHub product updates and discussions, visit our [Commu
 ### Feedback to the GitHub Product Team
 
 If your feedback pertains to GitHub Copilot Extensions in general (e.g. bugs, feature requests) or the GitHub Marketplace (publishing, verifying, listing), please:
-1. Select the "githubproduct" label and oprn a new issue in this repository
+1. Select the "githubproduct" label and open a new issue in this repository
 2. Fill out the [Extension Developer Survey](https://survey3.medallia.com/?Mxu02i-extensibility) for detailed feedback and feature requests
 
 ### Feedback to Client Teams
