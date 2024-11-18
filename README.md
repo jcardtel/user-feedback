@@ -50,7 +50,7 @@ If you’re using a Copilot Extension and would like to provide **feedback direc
 
 If you are unsure which label is most applicable for your feedback, please include the “githubproduct” label and our team will route your request. 
 
-Your feedback is essential in helping builders, clients, and the GitHub Product team improve the overall Copilot Extensions experience during this public beta phase.
+Your feedback is essential in helping builders, clients, and the GitHub Product team improve the overall Copilot Extensions experience during this public preview phase.
 
 ---
 
@@ -74,6 +74,6 @@ As a builder of or an IDE supporting a Copilot Extension, this repository allows
 
 ---
 
-This repository is the main channel for sharing feedback to builders, IDEs and the GitHub product team during the public beta of Copilot Extensions. 
+This repository is the main channel for sharing feedback to builders, IDEs and the GitHub product team during the public preview of Copilot Extensions. 
 
 For release updates from the GitHub Product Team, please visit our [Community Discussions forum](https://github.com/copilot-extensions/user-feedback#).
