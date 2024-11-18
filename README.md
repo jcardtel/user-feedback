@@ -1,51 +1,79 @@
 # Feedback Hub for Copilot Extensions
 
-Welcome to the Copilot Extensions Feedback Hub. This public repository is designed to facilitate feedback exchange between users and publishers of GitHub Copilot Extensions. It serves as the primary channel for feedback directly to publishers during the Copilot Extensions public beta.
+Welcome to the Copilot Extensions Feedback Hub. This public repository is designed to facilitate feedback exchanges between users, builders, clients, and GitHub. It serves as the primary channel for direct feedback. 
 
-### Important: Feedback for the GitHub Product Team
+If you’re looking for GitHub product updates and discussions, visit our [Community Discussions forum](https://github.com/orgs/community/discussions/categories/copilot). 
+
+## For Users: Submitting feedback for the GitHub Product Team, Client Teams, and Builders
+
+### Feedback to the GitHub Product Team
+
 If your feedback pertains to GitHub Copilot Extensions in general (e.g. bugs, feature requests) or the GitHub Marketplace (publishing, verifying, listing), please:
-1. Post in our [Community Discussion thread](#) for questions and open forum
+1. Select the "githubproduct" label and oprn a new issue in this repository
 2. Fill out the [Extension Developer Survey](https://survey3.medallia.com/?Mxu02i-extensibility) for detailed feedback and feature requests
 
-This repository is _only_ for feedback intended for publishers of individual Copilot Extensions.
+### Feedback to Client Teams
 
-## For Users: Submitting Feedback
+A client team is the team that owns the surface where users would interface with a Copilot Extension. Client teams that support GitHub Copilot Extensions today are Visual Studio Code, Visual Studio, Chat in GitHub.com, and Chat in GitHub Mobile. You can see a list of all supported clients [here](https://docs.github.com/en/copilot/building-copilot-extensions/about-building-copilot-extensions#supported-clients-and-ides).
 
-If you’re using a Copilot Extension and would like to provide **feedback directly to the publisher**, please follow these steps:
+If your feedback is specific to Copilot Extensions in a specific IDE or surface (e.g. client side capabilities, IDE related bugs) please follow these steps:
 
-1. **Identify the Correct Label**:
+1. **Identify the correct label**
+   
+3. **Create a GitHub Issue in this repository**
+   - Navigate to the "Issues" tab in this repository.
+   - Click on "New Issue" and describe your feedback in detail.
+   - Apply the appropriate label using the IDE name.
+     
+4. **Engage with client teams**: After submitting your issue, the client team may respond to gather more details or provide updates. Keep an eye on the issue thread for any follow-up.
+   
+6. **Stay organized**: Ensure your feedback is directed to the correct client by applying the corresponding label. For status updates, you can turn on Issue notifications in the right-hand sidebar.
+
+### Feedback to Builders
+
+If you’re using a Copilot Extension and would like to provide **feedback directly to the builder**, please follow these steps:
+
+1. **Identify the correct label**:
    - Each Copilot Extension listed in the GitHub Marketplace typically has a label corresponding to its slug name (part of the URL in its listing).
    - Use the slug name as the label if your feedback is intended for the publisher of that extension.
 
-2. **Create a GitHub Issue**: 
+2. **Create a GitHub Issue in this repository**: 
    - Navigate to the "Issues" tab in this repository.
    - Click on "New Issue" and describe your feedback in detail.
    - Apply the appropriate label using the extension’s slug name.
 
-3. **Engage with Publishers or the GitHub Team**: After submitting your issue, the extension’s publisher may respond to gather more details or provide updates. Keep an eye on the issue thread for any follow-up.
+3. **Engage with builderes**: After submitting your issue, the extension builders may respond to gather more details or provide updates. Keep an eye on the issue thread for any follow-up.
 
-4. **Stay Organized**: Ensure your feedback is directed to the specific Copilot Extension by applying the corresponding label. For status updates, you can turn on Issue notifications in the right-hand sidebar.
+4. **Stay organized**: Ensure your feedback is directed to the specific Copilot Extension by applying the corresponding label. For status updates, you can turn on Issue notifications in the right-hand sidebar.
 
-Your feedback is essential in helping publishers improve their Copilot Extensions during this beta phase.
+---
 
-## For Publishers: Monitoring & Managing Feedback
+If you are unsure which label is most applicable for your feedback, please include the “githubproduct” label and our team will route your request. 
 
-As a publisher of a Copilot Extension, this repository allows you to monitor and manage the feedback that users provide. Feedback issues are tagged with labels corresponding to your extension’s slug name. Here’s how to get started:
+Your feedback is essential in helping builders, clients, and the GitHub Product team improve the overall Copilot Extensions experience during this public beta phase.
 
-1. **Reviewing Feedback via Issues**:
+---
+
+## For Builders and Client Teams: Monitoring & Managing Feedback
+
+As a builder of or an IDE supporting a Copilot Extension, this repository allows you to monitor and manage the feedback that users provide. Feedback issues are tagged with labels corresponding to your extension’s slug name or your IDE name. Here’s how to get started:
+
+1. **Reviewing feedback via Issues**:
    - Navigate to the "Issues" tab to see all feedback in a list format.
-   - Use the "Filter" dropdown to select your extension’s label and view relevant feedback for your listing.
+   - Use the "Filter" dropdown to select your label and view relevant feedback.
 
-2. **Reviewing Feedback via Project Boards**:
+2. **Reviewing feedback via Project Boards**:
    - Access the feedback board through the "Projects" tab in this repository.
-   - Filter the board by your extension’s label to see all associated feedback in one place.
+   - Filter the board by your label to see all associated feedback in one place.
    - You can use this Project board to manage and track the status of each feedback issue. Make sure to regularly review and update the board to resolve feedback in a timely manner.
 
-3. **Responding to Feedback**:
+3. **Responding to feedback**:
    - Engage with users by commenting on issues.
    - Keep the discussion constructive and focused on resolving or addressing the feedback.
    - Once feedback has been addressed, you can close the issue.
 
 ---
 
-This repository is the main channel for sharing feedback publishers during the public beta of Copilot Extensions. For feedback meant for the GitHub product team, please visit our [Community Discussions forum](#).
+This repository is the main channel for sharing feedback to builders, IDEs and the GitHub product team during the public beta of Copilot Extensions. 
+
+For release updates from the GitHub Product Team, please visit our [Community Discussions forum](https://github.com/copilot-extensions/user-feedback#).
